@@ -49,7 +49,7 @@ Imperial Stout #1
 6. Cooling the wort
 7. Aerate the wort and add yeast nutrients
 8. Add yeast starter each half
-9. Ferment for 2 weeks (Currently in process)
+9. Ferment for 2 weeks
 10. Bottle with white sugar
 
 　
