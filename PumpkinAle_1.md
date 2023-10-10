@@ -46,7 +46,7 @@ Pumpkin Ale #1 : Hollow Night
 3. Lauter 3 times - For homebrew, routering twice seems to be appropriate.
 4. Sparge (Add water until the total amount of wort reaches 26L)
 5. Boil 60min, add hops and cloves
-6. Cool the wort to 27°C
+6. Cool the wort to 26°C
 7. Filter out hop residue and clove through a sieve
 8. Aerate the wort and add yeast nutrients and pumpkin spice powders
 9. Dissolve yeast in 250ml of water at 27°C and activate for 15 minutes
