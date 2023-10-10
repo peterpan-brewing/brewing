@@ -20,8 +20,8 @@ Pumpkin Ale #1 : Hollow Night
 ### Hops
 | Hops | Type | Amount | Time |
 | ------ | ------ | ------ | ------ |
-| UK East Kent Goldings (5AA) | Pellet | 1oz | 60min |
-| UK East Kent Goldings (5AA) | Pellet | 1oz | 15min |
+| East Kent Goldings (5AA) | Pellet | 1oz | 60min |
+| East Kent Goldings (5AA) | Pellet | 1oz | 15min |
 
 ### Yeast
 | Yeast | Amount | Alcohol Tolerance |
