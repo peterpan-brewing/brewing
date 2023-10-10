@@ -44,9 +44,9 @@ Pumpkin Ale #1 : Hollow Night
 1. Steep grains (Base malts and canned pumpkin purees) (20.5L of water, 60°C 40min)
 2. Add specialty malt and keep steeping (70°C 20min)
 3. Lauter 3 times - For homebrew, routering twice seems to be appropriate.
-4. Sparging (Add water until the total amount of wort reaches 26L)
+4. Sparge (Add water until the total amount of wort reaches 26L)
 5. Boil 60min, add hops and cloves
-6. Cooling the wort to 27°C
+6. Cool the wort to 27°C
 7. Filter out hop residue and clove through a sieve
 8. Aerate the wort and add yeast nutrients and pumpkin spice powders
 9. Dissolve yeast in 250ml of water at 27°C and activate for 15 minutes
