@@ -5,6 +5,10 @@ Pumpkin Ale #1 : Hollow Night
 
 ![Hollow Night](https://github.com/peterpan-brewing/beer/blob/main/Hollow%20Night.jpg)
 　
+* #1-1 : Pumpkin ale
+* #1-2 : 90% Pumpkin ale & 10% Imperial stout Blend
+
+　
 
 ## Ingredients
 
