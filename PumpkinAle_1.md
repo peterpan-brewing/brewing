@@ -53,13 +53,15 @@ Pumpkin Ale #1 : Hollow Night
 10. Stir the yeast solution and activate for another 15 minutes
 11. Add activated yeast solution
 12. Ferment for 2 weeks
-13. Bottle with white sugar
+13. Bottle with white sugar (2g per 330ml)
+14. (#2) Blend with Gengtai's coconut imperial stout (Add 35ml of stout per 330ml of total volume) for additional body and sweetness
 
 　
 
 ## OG/FG
 | Batch | OG | FG | Expected ABV |
 | ------ | ------ | ------ | ------ |
-| #1 | 1.064 | ??? | ??? |
+| #1 | 1.064 | 1.016 | 6.3% |
+| #2 | 1.064 | 1.016 | 6.8% |
 
 　
