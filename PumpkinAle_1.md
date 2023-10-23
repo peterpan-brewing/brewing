@@ -3,7 +3,7 @@ Pumpkin Ale #1 : Hollow Night
 > “Without beer, life would be a mistake.”  Friedrich Nietzsche
 
 
-![Hollow Night](https://github.com/peterpan-brewing/beer/blob/main/Hollow%20Night.jpg)
+images
 　
 * #1-1 : Pumpkin ale
 * #1-2 : 90% Pumpkin ale & 10% Imperial stout Blend
