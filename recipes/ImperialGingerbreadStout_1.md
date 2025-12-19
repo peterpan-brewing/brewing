@@ -21,7 +21,6 @@ Imperial Gingerbread Stout #1 : Silksong
 | Briess Brewers Oat Flakes (2.5°L) | 0.8kg |  |
 | Plantation Organic Unsulphured Blackstrap Molasses | 0.4kg |  |
 | The Maple Treat Maple Syrup | 0.25kg |  |
-| Rice Hulls | 0.3kg |  |
 
 ### Hops
 | Hops | Type | Amount | Time |
@@ -36,6 +35,7 @@ Imperial Gingerbread Stout #1 : Silksong
 ### Others
 | Other ingredients | Amount | Remarks |
 | ------ | ------ | ------ |
+| Rice Hulls | 0.3kg |  |
 | Cinnamon Sticks | 2ea | |
 | Whole Cloves | 2ea |  |
 | Whole Nutmeg | 1ea |  |
